@@ -2,6 +2,17 @@
 <resources>
     <color name="colorPrimary">#00bcd4</color>
     <color name="colorPrimaryDark">#008ba3</color>
-    <color name="colorAccent">#00c853</color>
+    <color name="colorAccent">#F8F8F8</color>
     <color name="windowBackground">#242536</color>
+
+    <!-- MaterialDrawer colors -->
+    <color name="material_drawer_dark_background">@color/colorPrimary</color>
+    <color name="material_drawer_dark_primary_text">#DEFFFF</color>
+    <color name="material_drawer_dark_primary_icon">#8AFFFF</color>
+    <color name="material_drawer_dark_secondary_text">#8AFFFF</color>
+    <color name="material_drawer_dark_hint_text">#42FFFFFF</color>
+    <color name="material_drawer_dark_divider">#1FFFFFFF</color>
+    <color name="material_drawer_dark_selected">@color/colorPrimaryDark</color>
+    <color name="material_drawer_dark_selected_text">#FFF</color>
+    <color name="material_drawer_dark_header_selection_text">#FFF</color>
 </resources>
